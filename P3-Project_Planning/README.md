@@ -8,11 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+*![ShopByAisle-WireFrame](https://github.com/pallavi-shah/liftoff-assignments/blob/master/P3-Project_Planning/ShopByAisle-Wireframe.jpg)
 
 ### Project Tracker
+
+https://trello.com/b/M9VJBZHX/shopbyaisle-app
 
 
 ### Project Repo Link
 
+https://github.com/pallavi-shah/ShopByAisleApp 
 
